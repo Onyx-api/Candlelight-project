@@ -1,7 +1,4 @@
-﻿/*
- * CCTV.cs - written by ThunderWire Games
- * Version 1.0
-*/
+﻿
 
 using System.Collections;
 using System.Collections.Generic;

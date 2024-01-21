@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+pack-784aea89572f9659894a3fc7513f50a7c6782882.pack filter=lfs diff=lfs merge=lfs -text
+WebGL.data.gz filter=lfs diff=lfs merge=lfs -text
